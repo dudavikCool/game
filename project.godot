@@ -11,8 +11,9 @@ config_version=4
 [application]
 
 config/name="sand"
-run/main_scene="res://Node2D.tscn"
-config/icon="res://icon.png"
+run/main_scene="res://scenes/Node2D.tscn"
+boot_splash/bg_color=Color( 0.372549, 0.901961, 0.890196, 1 )
+config/icon="res://tiles/icon.png"
 
 [physics]
 
